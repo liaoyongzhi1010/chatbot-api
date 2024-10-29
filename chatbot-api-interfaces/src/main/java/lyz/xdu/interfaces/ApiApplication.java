@@ -1,4 +1,4 @@
-package lyz.xdu;
+package lyz.xdu.interfaces;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

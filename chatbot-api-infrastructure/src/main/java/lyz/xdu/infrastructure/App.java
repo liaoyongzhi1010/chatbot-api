@@ -1,4 +1,4 @@
-package lyz.xdu;
+package lyz.xdu.infrastructure;
 
 /**
  * Hello world!
